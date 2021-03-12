@@ -10,11 +10,11 @@ let app = {
   cthresh: 0,
   useShader: false,
   ns: .01,
-  rotate: false,
+  rotate: true,
   faceOnly: true,
   skinColor: null,
   meltLength: 75,
-  meltTime: 10000
+  meltTime: 17500
 };
 
 let faceapi;
