@@ -125,7 +125,7 @@ function draw() {
       let c = getLocColor(x, y);
       let pc = getRGBShader(c, x, y, ns);
       
-      if (!app.faceOnly || (app.faceOnly && x <=  fx+fw && y >= fy && x >= fx  && y <= fy+fh)) {     
+      if (!app.faceOnly || (app.faceOnly && x <= fx+fw && y >= fy && x >= fx  && y <= fy+fh)) {     
         let d = dist(
           red(c),
           green(c),
