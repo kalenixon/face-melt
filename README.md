@@ -2,6 +2,9 @@
 
 ## A face melting sketch in p5.js and ml5.js
 
+Demo:
+https://kalenixon.github.io/face-melt
+
 ### Key Commands:
 
 *z* - Psychedelic fx on/off
